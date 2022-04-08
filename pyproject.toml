@@ -12,7 +12,7 @@ SagasuSubs = 'SagasuSubs.api.__main__:main'
 [tool.poetry.dependencies]
 python = "^3.8"
 pydantic = "^1.8.2"
-pysubs2 = "^1.2.0"
+pysubs2 = "^1.4.2"
 cchardet = "^2.1.7"
 httpx = { extras = ["http2"], version = "^0.21.3" }
 click = "^8.0.3"
